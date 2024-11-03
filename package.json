@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "copy-text-to-clipboard": "^2.2.0",
-    "dompurify": "^2.4.9",
+    "dompurify": "^2.4.2",
     "fuse.js": "^6.5.3",
     "history": "^5.0.0",
     "marked": "^1.2.0",
